@@ -7,7 +7,6 @@ import jakarta.persistence.ManyToOne;
 import java.util.Objects;
 
 @Embeddable
-
 public class BelongingPK {
 
     @ManyToOne
